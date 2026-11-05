@@ -1,0 +1,37 @@
+question,expected,predicted,correct
+My SIP payment failed this month,Failed SIP payment,Failed SIP payment,YES
+SIP installment failed because of insufficient balance,Failed SIP payment,Failed SIP payment,YES
+Money was not debited and my SIP failed,Failed SIP payment,Failed SIP payment,YES
+Why did my SIP debit fail?,Failed SIP payment,Failed SIP payment,YES
+My SIP debit failed because of low balance,Failed SIP payment,Failed SIP payment,YES
+AutoPay mandate got rejected for my SIP,AutoPay mandate problem,AutoPay mandate problem,YES
+My SIP mandate has expired,AutoPay mandate problem,AutoPay mandate problem,YES
+How do I set up AutoPay for my SIP?,AutoPay mandate problem,AutoPay mandate problem,YES
+Bank mandate approval is pending for my SIP,AutoPay mandate problem,AutoPay mandate problem,YES
+My AutoPay is not active,AutoPay mandate problem,AutoPay mandate problem,YES
+I missed my SIP instalment this month,Missed SIP instalment,Missed SIP instalment,YES
+"My SIP installment did not go through, what should I do",Missed SIP instalment,Missed SIP instalment,YES
+SIP was skipped for this month,Missed SIP instalment,Missed SIP instalment,YES
+I forgot to keep balance and missed a SIP date,Missed SIP instalment,Missed SIP instalment,YES
+Will a missed SIP instalment have a penalty?,Missed SIP instalment,Missed SIP instalment,YES
+I want to pause my SIP for a few months,Thinking about pausing,Thinking about pausing,YES
+Can I temporarily stop my SIP?,Thinking about pausing,Thinking about pausing,YES
+"Money is tight, should I pause my SIP?",Thinking about pausing,Thinking about pausing,YES
+How do I pause my SIP in the app?,Thinking about pausing,Thinking about pausing,YES
+I am thinking of pausing my SIP because the market is down,Thinking about pausing,Thinking about pausing,YES
+What is a SIP?,Understanding SIP,Understanding SIP,YES
+How does a systematic investment plan work?,Understanding SIP,Understanding SIP,YES
+Explain SIP to a beginner,Understanding SIP,Understanding SIP,YES
+How does SIP investing work in mutual funds?,Understanding SIP,Understanding SIP,YES
+What does SIP stand for?,Understanding SIP,Understanding SIP,YES
+How do I cancel my SIP?,Cancelling SIP,Cancelling SIP,YES
+I want to stop my SIP permanently,Cancelling SIP,Cancelling SIP,YES
+Steps to cancel SIP in Groww,Cancelling SIP,Cancelling SIP,YES
+Can I close my SIP before the next instalment date?,Cancelling SIP,Cancelling SIP,YES
+How to discontinue my mutual fund SIP,Cancelling SIP,Cancelling SIP,YES
+Which mutual fund should I buy?,OUT OF SCOPE,NO ANSWER,YES
+What return will my SIP give next year?,OUT OF SCOPE,NO ANSWER,YES
+Tell me today's weather in Bhopal,OUT OF SCOPE,NO ANSWER,YES
+Is the Nifty going to crash tomorrow?,OUT OF SCOPE,NO ANSWER,YES
+Help me pay my credit card bill,OUT OF SCOPE,NO ANSWER,YES
+Which is the best stock to buy this week?,OUT OF SCOPE,NO ANSWER,YES
