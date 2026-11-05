@@ -1,0 +1,131 @@
+[
+  {
+    "id": "SIP001",
+    "topic": "Failed SIP payment",
+    "keywords": [
+      "failed",
+      "payment",
+      "declined",
+      "rejected",
+      "insufficient balance",
+      "bank",
+      "fail",
+      "failure",
+      "debit fail",
+      "debit failed",
+      "not debited",
+      "low balance",
+      "payment failed",
+      "payment fail",
+      "installment failed",
+      "instalment failed"
+    ],
+    "answer": "A SIP payment can fail because of insufficient bank balance, an incomplete or rejected AutoPay mandate, KYC issues, incorrect investor details, or bank payment problems. Check your bank balance, KYC details and AutoPay status in your investment app. If the problem continues, contact Groww support.",
+    "source": "https://groww.in/help/mutual-funds/order/why-did-my-sip-installment-fail--36"
+  },
+  {
+    "id": "SIP002",
+    "topic": "Missed SIP instalment",
+    "keywords": [
+      "missed",
+      "miss",
+      "installment",
+      "instalment",
+      "pay now",
+      "late payment",
+      "skipped",
+      "skip",
+      "forgot",
+      "did not go through",
+      "didn't go through",
+      "not go through"
+    ],
+    "answer": "If you miss a SIP instalment, your existing investments are not automatically withdrawn. Depending on the payment status, a Pay Now option may be available for a limited period. You may also be able to make a one-time investment in the same mutual fund. Check the current options displayed in your Groww account.",
+    "source": "https://groww.in/help/mutual-funds/mf-sip/how-do-i-pay-for-a-missed-installment-3"
+  },
+  {
+    "id": "SIP003",
+    "topic": "AutoPay mandate problem",
+    "keywords": [
+      "autopay",
+      "mandate",
+      "automatic payment",
+      "debit failed",
+      "bank mandate",
+      "auto pay",
+      "auto-pay",
+      "e-mandate",
+      "nach"
+    ],
+    "answer": "An AutoPay debit can fail because of insufficient balance, a rejected or expired mandate, or a bank payment-system issue. Check your mandate status and pending SIP instalments. If a payment option is available, follow the instructions shown in your account.",
+    "source": "https://groww.in/help/mutual-funds/mf-sip/how-do-i-pay-for-my-sip-installment-if-the-autopay-debit-has-failed--40"
+  },
+  {
+    "id": "SIP004",
+    "topic": "Cancelling SIP",
+    "keywords": [
+      "cancel",
+      "cancellation",
+      "stop",
+      "terminate",
+      "close sip",
+      "discontinue",
+      "close my sip",
+      "close",
+      "stop my sip",
+      "stop sip",
+      "end my sip"
+    ],
+    "answer": "To cancel a SIP, open Mutual Funds, go to SIPs, select the relevant SIP and follow the cancellation instructions. Review the confirmation carefully. Cancelling a SIP stops future instalments; it does not automatically redeem the money already invested. The exact cancellation eligibility and processing time should be checked in the app.",
+    "source": "https://groww.in/help/mutual-funds/mf-sip/how-to-cancel-my-sip"
+  },
+  {
+    "id": "SIP005",
+    "topic": "Understanding SIP",
+    "keywords": [
+      "what is sip",
+      "how sip works",
+      "meaning",
+      "beginner",
+      "monthly investment",
+      "what is a sip",
+      "what does sip",
+      "stand for",
+      "how does a sip",
+      "how does sip",
+      "systematic investment plan",
+      "explain sip",
+      "sip investing",
+      "sip work"
+    ],
+    "answer": "A Systematic Investment Plan (SIP) allows you to invest a chosen amount into a mutual fund at regular intervals. SIPs do not guarantee returns or protect you from market losses. Before investing, understand the fund, its risks and your own financial situation. This assistant provides general educational information, not investment recommendations.",
+    "source": "https://groww.in/"
+  },
+  {
+    "topic": "Thinking about pausing",
+    "keywords": [
+      "pause",
+      "paused",
+      "pausing",
+      "temporarily",
+      "temporarily stop",
+      "temporarily stop my sip",
+      "stop temporarily",
+      "pause temporarily",
+      "temporary break",
+      "take a break",
+      "break from sip",
+      "hold my sip"
+    ],
+    "answer": "Groww lets you pause an upcoming SIP instalment. In the app, open My SIPs, select the SIP, tap Edit SIP and choose Skip Instalment. Check the options shown in the app for your SIP before you confirm.",
+    "steps": [
+      "Open the My SIPs section in your Groww app.",
+      "Select the SIP you want to pause.",
+      "Tap Edit SIP and look for the Skip Instalment option.",
+      "Check the details shown in the app before you confirm.",
+      "Contact Groww support if you do not see the option for your SIP."
+    ],
+    "source": "https://groww.in/help/mutual-funds/order/can-i-pause-sip-for-next-month",
+    "id": ""
+  }
+]
